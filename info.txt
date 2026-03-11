@@ -1,0 +1,5 @@
+Nombre del alumno: Paulina Alvarado Casillas 
+Fecha: 10 marzo 2026 
+Objetivo: Aprender a usar Git y Github para crea repositorios, trabajar con ramas y subir caminos 
+Que es un Pull request? 
+Es una solicitud que se hace para unir los cambios de una rama dentro de un repositorio en GitHub.
