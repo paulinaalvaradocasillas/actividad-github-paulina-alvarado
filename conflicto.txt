@@ -1,3 +1,6 @@
 Proyecto: Git Conflicts
+feature/conflicto-paulina-alvarado
+Responsable: EQUIPO-D
 Responsable: EQUIPO-B 
+main
 Version: 1.0
